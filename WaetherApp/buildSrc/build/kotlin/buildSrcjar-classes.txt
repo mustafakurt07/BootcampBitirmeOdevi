@@ -1,0 +1,1 @@
+/home/kurt/AndroidStudioProjects/WaetherApp/buildSrc/build/classes/kotlin/main/Libs.class:/home/kurt/AndroidStudioProjects/WaetherApp/buildSrc/build/classes/kotlin/main/Versions.class
